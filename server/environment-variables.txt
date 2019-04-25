@@ -1,0 +1,2 @@
+JWT_SECRET=willy
+API_KEY=YghomPZHmrlJxekifv75GcyuZY6WwJpJYfL14MI3
